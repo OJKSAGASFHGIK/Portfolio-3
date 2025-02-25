@@ -5,7 +5,7 @@ function SProjects({theme="sTheme", myId="idProjects"}){
                 <div>
                     <div>
                         <h3>Projetos:</h3>
-                        <p className='small'>Obs: Acesse link de projetos por um desktop <br/>(Tópicos voltados para utilidade e didática)</p>
+                        <p className='small'><strong>Obs: Acesse link de projetos por um desktop</strong> <br/><emphasis>Tópicos voltados para utilidade e didática</emphasis></p>
                     </div>
                     <div className='row row-cols-md-3 row-cols-2'>
                         <div>
