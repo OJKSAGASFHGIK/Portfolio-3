@@ -18,13 +18,13 @@ function Skills({theme="sTheme", myId="idSkills"}){
                                     <td>HTML, CSS, JS</td>
                                 </tr>
                                 <tr>
+                                    <td>PHP</td>
+                                </tr>
+                                <tr>
                                     <td>React.JS, Bootstrap</td>
                                 </tr>
                                 <tr>
                                     <td>MySQL</td>
-                                </tr>
-                                <tr>
-                                    <td>PHP</td>
                                 </tr>
                                 <tr>
                                     <td>Python</td>
