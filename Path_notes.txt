@@ -1,5 +1,3 @@
 // My repository is like this:
 ./public/index.html // the main root of my website
 ./public/1.ProjectNotes/3.LearningReactJS/react-library/public/index.html // the only one part that have a react.js project
-
-. . . 
