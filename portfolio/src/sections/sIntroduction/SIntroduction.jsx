@@ -1,4 +1,4 @@
-import me from './../../assets/img/me3.jpg';
+import me from './../../assets/img/me5.jpg';
 import whats from './../../assets/img/whatsapp.png';
 
 import React, { useState } from 'react';

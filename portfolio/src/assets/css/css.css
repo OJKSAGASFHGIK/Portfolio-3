@@ -1,12 +1,12 @@
 :root {
-    --sText: #440b5f;
+    --sText: rgb(255, 255, 255, 0.95);
     --sTextT: gray;
-    --sBackground: rgb(255, 255, 255, 0.9);
+    --sBackground: rgb(0, 0, 0, 0.9);
     --sBorder: gray;
     --sBackgroundTable: #ff5076;
-    --sBackgroundTable2: #ffdae1;
-    --sLinkColor: red; /* just for sections */
-    --sLinkColorT: darkred; /* just for sections */
+    --sBackgroundTable2: #ab0355;
+    --sLinkColor: cyan; /* just for sections */
+    --sLinkColorT: yellow; /* just for sections */
 
     --bText: white;
     --bTextT: gray;
