@@ -37,7 +37,7 @@ function SIntroduction({theme = "sTheme"}){
                                 {a1Copied && <span ><br/>➟ E-mail copiado</span>}<br/>
                                 
                                 <div className='d-flex align-items-center'>
-                                    <a href="https://wa.me/5521980636091"><img src={whats} className='me-1' style={{border:"none", height:"39px", width:"39px"}} alt="Whatsapp icon"/></a> <span><a id='id1Show-Number' onClick={f2CopyEmail} style={{cursor: "pointer"}}>+55 (21) 98063-6091</a></span>
+                                    <a href="https://wa.me/5521980636091" target="_blank"><img src={whats} className='me-1' style={{border:"none", height:"39px", width:"39px"}} alt="Whatsapp icon"/></a> <span><a id='id1Show-Number' onClick={f2CopyEmail} style={{cursor: "pointer"}}>+55 (21) 98063-6091</a></span>
                                     {a2Copied && <span ><br/>➟ Número copiado</span>}<br/>
                                 </div>
 
@@ -61,7 +61,7 @@ function SIntroduction({theme = "sTheme"}){
                             {a1Copied && <span ><br/>➟ E-mail copiado</span>}<br/>
                             
                             <div className='d-flex align-items-center'>
-                                <a href="https://wa.me/5521980636091"><img src={whats} className='me-1' style={{border:"none", height:"39px", width:"39px"}} alt="Whatsapp icon"/></a> <span><a id='id1Show-Number' onClick={f2CopyEmail} style={{cursor: "pointer"}}>+55 (21) 98063-6091</a></span>
+                                <a href="https://wa.me/5521980636091" target="_blank"><img src={whats} className='me-1' style={{border:"none", height:"39px", width:"39px"}} alt="Whatsapp icon"/></a> <span><a id='id1Show-Number' onClick={f2CopyEmail} style={{cursor: "pointer"}}>+55 (21) 98063-6091</a></span>
                                 {a2Copied && <span ><br/>➟ Número copiado</span>}<br/>
                             </div>
                             
